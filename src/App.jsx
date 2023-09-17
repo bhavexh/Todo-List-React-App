@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./styles.css";
 import { NewTodoForm } from "./NewTodoForm";
-import { TodoList } from "./TodoList";
+import { TodoList } from "./Todolist";
 
 export default function App() {
   
